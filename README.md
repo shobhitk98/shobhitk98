@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name Shobhit and I'm a  Front End Developer 🦁</h2>
+<h2 align="center">Hi 👋! My name Shobhit </h2>
 
 ###
 
-<p align="center">Frontend Developer😀 with entry-level experience specializing in web development. I am looking forward to<br>working as a front-end developer to continue to grow  my skill set while contributing to the positively 🤘.</p>
+<p align="center"> </p>
 
 ###
 
